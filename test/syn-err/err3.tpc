@@ -1,0 +1,8 @@
+int a;
+
+
+void    add(char tab[],  char c,   int a) {
+    tab[a] = c;  return ;
+}
+
+int req;

@@ -1,0 +1,9 @@
+int a,        
+            b[7];
+
+
+void    add(char tab[],  char c,   int a) {
+
+    _ = ' ';
+    tab[a] = c;  return ;
+}

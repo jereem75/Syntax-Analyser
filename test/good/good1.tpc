@@ -1,0 +1,23 @@
+int GLOB, 
+
+
+      OWS;
+
+int main(void) {
+  int a;
+
+  int b;
+  a = !10;
+  b = 20;
+
+  if (a >= b) {
+    printf(tab());
+  } else if(b > 0){
+    printf('\t');
+  }
+  else {
+    abara = 22;
+  }
+    
+  return 0;
+}

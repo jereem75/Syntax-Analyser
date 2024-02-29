@@ -1,0 +1,26 @@
+/*  kdjdcc int dds sqsd
+jghsdh
+zd dssd vohhid*/
+
+char wsh[4];
+
+/*
+ngvhbwdbhfjwhdv
+
+*/
+int addition(int a, int b){
+    return a + b;
+}
+/*
+int tab[25];    */
+
+int main(int argv, char argc[]) {
+    int tab[25], i;
+    if (i >= 0 && y <= 0) { //hggdfdgfdgfdffgd
+        //Un comm
+        tab[i] = addition(tab[i - 1], i);
+        i = tab[i - 2];
+        days[5]=duration[(now+span)%12];
+    }
+    return 0;
+}
